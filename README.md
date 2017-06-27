@@ -1,8 +1,12 @@
-# YAttt
-Yet Another Test Teaching Template
+# YAttt 
+### Yet Another Test Teaching Template
 
-./Project - Проект шаблона
+Последние новости проекта вы можете узнать тут -> [**RSS**](https://github.com/tgakatiger/YAttt/blob/master/RSS "Последние изменения")
 
-./Game - Игра на основе проекта
+* [Project](https://github.com/tgakatiger/YAttt/blob/master/Project) - Проект шаблона
 
-./Docs - Документация ко всем подпроектам
+* [Game](https://github.com/tgakatiger/YAttt/blob/master/Game) - Игра на основе проекта
+
+* [Docs](https://github.com/tgakatiger/YAttt/blob/master/Docs) - Документация ко всем подпроектам
+
+* [Tools](https://github.com/tgakatiger/YAttt/blob/master/tools) - Вспомогательные инструменты
