@@ -5,4 +5,4 @@ Yet Another Test Teaching Template
 
 ./Game - Игра на основе проекта
 
-./Teaching - документация ко всем подпроектам
+./Docs - Документация ко всем подпроектам
